@@ -1,3 +1,4 @@
+
 import { useState } from 'react';
 
 function App() {
@@ -10,7 +11,7 @@ function App() {
   function handleSubmit(e) {
     e.preventDefault();
     console.log('Setting state');
-    setPokemonName(pokemonName);
+     setPokemonName(pokemonName);
   }
 
   function handleSelect(newPokemonName) {
