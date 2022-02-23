@@ -1,4 +1,4 @@
-import ReactDOM from 'react-dom';
+git remote add origin https://github.com/Abiralkc/Pokemon.gitimport ReactDOM from 'react-dom';
 import App from './App';
 import './style.css';
 
